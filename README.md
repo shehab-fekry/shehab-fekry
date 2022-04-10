@@ -7,7 +7,7 @@
 - 😻 I’m seeking 
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fun fact: I am a DOER 🤣
-- 👯 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 📫 Check out the (https://shehabeddin99@gmail.com)
 
 ### Connect with me:
 
