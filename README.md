@@ -2,29 +2,15 @@
 
 ### Software Developer
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 👨🏽‍💻 I’m a DOER 
 - 🌱 I’m currently learning everything
-- 😻 I’m seeking 
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fun fact: I am a DOER 🤣
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
-### Connect with me
+### Some stats
 
-[![website](./img/email-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/email-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/facebook-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/facebook-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![shehab-fekry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
 
