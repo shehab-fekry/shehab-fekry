@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I am a DOER 🤣
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
-### Connect with me:
+### Connect with me
 
 [![website](./img/email-light.svg)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/email-dark.svg)](https://codestackr.com#gh-dark-mode-only)
@@ -26,7 +26,7 @@
 [![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
