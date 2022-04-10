@@ -10,7 +10,7 @@
 
 ### Some stats
 
-[![shehab-fekry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![shehab-fekry's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/shehab-fekry/github-readme-stats)
 
 ### Languages and Tools
 
