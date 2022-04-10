@@ -7,7 +7,7 @@
 - 😻 I’m seeking 
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fun fact: I am a DOER 🤣
-- 📫 Check out the (https://shehabeddin99@gmail.com)
+- 📫 Check out the [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
 ### Connect with me:
 
