@@ -12,6 +12,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehab-fekry&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages usage
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-fekry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
