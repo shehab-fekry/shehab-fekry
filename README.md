@@ -1,8 +1,8 @@
-## Hi there, I'm Shehab 👋 
+## Hey 👋, I'm Shehab Fekry
 
 ### Software Engineer
 
-- 👨🏽‍💻 I’m CS student
+- 👨🏽‍💻 I’m a CS student
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fact: No Pain No Gain
