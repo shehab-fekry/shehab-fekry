@@ -1,4 +1,4 @@
-<h4> Hey 👋, I'm Shehab Fekry </h4>
+<h2> Hey 👋, I'm Shehab Fekry </h2>
 
 ### Software Engineer
 
