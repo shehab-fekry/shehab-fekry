@@ -1,18 +1,16 @@
 ## Hi there, I'm Shehab 👋 
 
-### Software Developer
+### Software Engineer
 
-- 👨🏽‍💻 I’m a DOER 
+- 👨🏽‍💻 I’m CS student
 - 🌱 I’m currently learning everything
 - 🥅 2022 Goals: filling more repos with BIG projects
-- ⚡ Fun fact: I am a DOER 🤣
+- ⚡ Fact: No Pain No Gain
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
 ### Some stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehab-fekry&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
-### Languages usage
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shehab-fekry&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
