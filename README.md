@@ -3,7 +3,7 @@
 ### Software Engineer
 
 - 👨🏽‍💻 I’m a CS student
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning variety of things
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fact: No Pain No Gain
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
