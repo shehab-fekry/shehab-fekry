@@ -1,4 +1,4 @@
-## Hi there, I'm Shehab Fekry 👋 
+## Hi there, I'm Shehab 👋 
 
 ### Software Developer
 
@@ -7,7 +7,6 @@
 - 🥅 2022 Goals: filling more repos with BIG projects
 - ⚡ Fun fact: I am a DOER 🤣
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
-
 ### Some stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shehab-fekry&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
