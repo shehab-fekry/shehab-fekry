@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I’m a CS student
 - 🌱 I’m currently learning variety of things
-- 🥅 2022 Goals: gaining experience
+- 🥅 2022 Goals: Gaining experience
 - ⚡ Fact: No Pain No Gain
 - 📫 Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
