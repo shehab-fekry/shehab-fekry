@@ -1,6 +1,6 @@
 <h3> Hey, I'm Shehab Fekry 👋</h3>
 
-<p>Software Engineer</p>
+<p>I develop software</p>
 
 - 👨🏽‍💻 I’m a CS student
 - 🌱 I’m currently learning variety of things
