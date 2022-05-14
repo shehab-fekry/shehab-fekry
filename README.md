@@ -1,4 +1,4 @@
-<h3> Hey, I'm Shehab Fekry 👋</h3> ![](https://komarev.com/ghpvc/?username=your-github-shehab-fekry&color=blue)
+<h3> Hey, I'm Shehab Fekry 👋</h3> (https://komarev.com/ghpvc/?username=your-github-shehab-fekry&color=blue)
 
 <p>I develop software</p>
 
