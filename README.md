@@ -1,4 +1,4 @@
-<h3> Hey, I'm Shehab Fekry 👋</h3> ![](https://komarev.com/ghpvc/?username=shehab-fekry&color=blue)
+<h3> Hey, I'm Shehab Fekry 👋</h3> ![](https://visitor-badge.glitch.me/badge?page_id=shehab-fekry.abhisheknaiidu)
 
 <p>I develop software</p>
 
