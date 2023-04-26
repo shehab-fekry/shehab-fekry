@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">❝ A fresh computer science graduate with coding possibilities and high motivations ❞</div>  
+### <h2 align="center">❝ Talk is cheap. Show me the code ❞</h2>  
   
 
 - 📧 Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)  
