@@ -1,9 +1,10 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+</div>   -->
   
 
-### <div align="center">❝ Talk is cheap. Show me the code ❞</div>  
+## <div align="center">❝ Talk is cheap. Show me the code ❞</div>
+### Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=Shehab-Fekry&&style=flat-square" align="center" />
