@@ -3,7 +3,7 @@
 </div>  
   
 
-### <h2 align="center">❝ Talk is cheap. Show me the code ❞</h2>  
+### <div align="center">❝ Talk is cheap. Show me the code ❞</div>  
   
 
 - 📧 Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)  
