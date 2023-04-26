@@ -4,6 +4,10 @@
   
 
 ### <div align="center">❝ Talk is cheap. Show me the code ❞</div>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Shehab-Fekry&&style=flat-square" align="center" />
+</div> 
   
 
 <!-- - 📧 Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)  
@@ -81,13 +85,6 @@
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31thcxtpxev6oyzdghkbtwewmeyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Shehab-Fekry&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>
   
 
 ----
