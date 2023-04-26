@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A fresh computer science graduate with coding possibilities and high motivations.</div>  
+### <div align="center">❝ A fresh computer science graduate with coding possibilities and high motivations ❞</div>  
   
 
 - 📧 Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)  
