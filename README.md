@@ -9,7 +9,7 @@
 ### <div align="center">❝ Talk is cheap. Show me the code ❞</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Shehab-Fekry&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=shehab-fekry&&style=flat-square" align="center" />
 </div> 
   
 
