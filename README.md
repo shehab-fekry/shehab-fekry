@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>   -->
   
-## Mail me at [shehabeddun99@gmail.com](mailto:shehabeddin99@gmail.com)
+## Mail me at [shehabeddin99@gmail.com](mailto:shehabeddin99@gmail.com)
 
 <br/>
 
