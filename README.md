@@ -80,7 +80,7 @@
 
 <br/>  
 
-
+<!--
 ## Played While Coding 
   
 
@@ -89,7 +89,7 @@
 <div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31thcxtpxev6oyzdghkbtwewmeyu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
-  
+-->
 
 ----
 <div align="center">
